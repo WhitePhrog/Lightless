@@ -1,5 +1,10 @@
 # Projeto Lightless - PHYSICAL COMPUTING IOT
 
+## Grupo:
+Octávio Hernandez Chiste Cordeiro – RM 97894 |
+Rafael Perussi Caczan – RM 93092 |
+Sabrina Flores – RM 550781
+
 ## Descrição do Problema
 
 Durante apagões, ambientes críticos perdem funcionalidades essenciais de comunicação e segurança. A ausência de iluminação e a indisponibilidade de sistemas conectados tornam difícil a comunicação de pedidos de ajuda ou alerta, especialmente por pessoas com deficiência visual ou mobilidade reduzida.
@@ -31,3 +36,4 @@ A detecção é feita via webcam, mesmo em baixa luminosidade, e os eventos são
 
 ```bash
 pip install opencv-python mediapipe
+
